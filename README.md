@@ -2,7 +2,7 @@
 
 ## Mert Arkın
 ### Contact Info:
-<p> **Linkedin:** linkedin.com/in/mert-a-a37389226 </p>
+**Linkedin:** linkedin.com/in/mert-a-a37389226
 ### Email: mertarkin18@gmail.com
 
 <!--
