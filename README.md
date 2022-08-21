@@ -2,8 +2,8 @@
 
 ## Mert Arkın
 ### Contact Info:
-#### Linkedin: linkedin.com/in/mert-a-a37389226
-#### Email: mertarkin18@gmail.com
+<p> **Linkedin:** linkedin.com/in/mert-a-a37389226 </p>
+### Email: mertarkin18@gmail.com
 
 <!--
 **MertArkin/MertArkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
