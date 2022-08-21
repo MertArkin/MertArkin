@@ -2,9 +2,9 @@
 
 ## Mert Arkın
 ### Contact Info:
-**[Linkedin:](https://www.linkedin.com/in/mert-a-a37389226)**
+**[Linkedin:]**(https://www.linkedin.com/in/mert-a-a37389226)
 
-**Email:** mertarkin18@gmail.com
+**[Email:](mertarkin18@gmail.com)**
 <a href="mailto:user@domain.com?Subject=Hello%20User">Inbox me!</a>
 
 <!--
