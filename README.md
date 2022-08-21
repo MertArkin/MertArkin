@@ -1,11 +1,11 @@
 <!-- ### Hi there 👋 -->
-
 ## Mert Arkın
 ### Contact Info:
-**[Linkedin:]**(https://www.linkedin.com/in/mert-a-a37389226)
+**[Linkedin:](https://www.linkedin.com/in/mert-a-a37389226)**
 
 **[Email:](mertarkin18@gmail.com)**
-<a href="mailto:user@domain.com?Subject=Hello%20User">Inbox me!</a>
+
+<a href="mailto:mertarkin18@gmail.com">Send mail</a>
 
 <!--
 **MertArkin/MertArkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
