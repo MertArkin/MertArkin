@@ -3,7 +3,7 @@
 ### Contact Info:
 **[Linkedin](https://www.linkedin.com/in/mert-a-a37389226)**
 
-**[Email](mertarkin18@gmail.com)**
+**[Email](<a href="mailto:mertarkin18@gmail.com></a>)**
 
 <!-- <a href="mailto:mertarkin18@gmail.com">**Email**</a> -->
 
