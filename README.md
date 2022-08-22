@@ -3,7 +3,7 @@
 ### Contact Info:
 **[Linkedin](https://www.linkedin.com/in/mert-a-a37389226)**
 
-<a href="mailto:mertarkin18@gmail.com?&subject=">**Email**</a>
+<a href="mailto:mertarkin18@gmail.com?&subject=Quick%20question%20!&body=Hi%20">**Email**</a>
 
 <!--
 **MertArkin/MertArkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
