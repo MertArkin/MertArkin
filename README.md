@@ -1,7 +1,12 @@
+
 <!-- ### Hi there 👋 -->
+
 ## Mert Arkın
+
 <!-- ### Contact Info: -->
-**[Linkedin](https://www.linkedin.com/in/mert-a-a37389226)**
+
+<!-- **[LinkedIn](https://www.linkedin.com/in/mert-a-a37389226)** --> 
+
 <a href="mailto:mertarkin18@gmail.com?&subject=Question%20!&body=Hi,">**Email**</a>
 
 <!--
